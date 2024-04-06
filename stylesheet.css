@@ -15,7 +15,7 @@ body {
   align-items: center;
   width: 100%;
   height: 10%;
-  font-size: larger;
+  font-size: medium;
   font-weight: 900;
 }
 sup {
@@ -29,7 +29,7 @@ sup {
 .sidebar_container {
   width: 18%;
   height: 100%;
-  font-size: larger;
+  font-size: medium;
   overflow: auto;
 }
 .mainbar_container {
@@ -67,7 +67,7 @@ sup {
   margin-bottom: 10px;
 }
 .fn_wt {
-  font-size: larger;
+  font-size: medium;
   font-weight: 500;
 }
 .angle_right {
