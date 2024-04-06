@@ -77,13 +77,14 @@ sup {
   display: flex;
   align-items: center;
   gap: 20px;
-  font-size: 19px;
+  font-size: medium;
 }
 .media_icon {
   width: 10%;
 }
 .media_text {
   width: 90%;
+  font-size: medium;
   font-weight: 400;
 }
 .social_icon_1 {
